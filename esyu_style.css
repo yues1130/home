@@ -1,0 +1,35 @@
+/*Tag*/
+html {
+  font-family:Arial, sans-serif;
+  -ms-text-size-adjust:100%;
+  -webkit-text-size-adjust:100%
+}
+
+summary {
+  cursor: pointer;
+}
+
+/*Class*/
+.nav-right li {
+    float:right;
+}
+.center-pills {
+    display: flex;
+    justify-content: center;
+}
+.page-header { border-bottom:none; }
+
+.nav-right li {
+    float:right;
+}
+
+.navbar-toggle {
+    float: left;
+    margin-left: 15px;
+}
+
+/*ID*/
+#update {
+  font-size: 10px;
+  float: right;
+}
