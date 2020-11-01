@@ -10,7 +10,19 @@ summary {
   outline:none;
 }
 
+footer {
+  padding-bottom:30px;
+}
+
+li {
+  margin-left:0px
+}
+
 /*Class*/
+.container {
+  max-width: 730px
+}
+
 .page-header {
   border-bottom:none;
 }
