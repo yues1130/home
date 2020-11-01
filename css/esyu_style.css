@@ -1,37 +1,30 @@
-/*Tag*/
+/*Tags*/
+/*Fonts of Whole Texts*/
 html {
   font-family:Arial, sans-serif;
   -ms-text-size-adjust:100%;
-  -webkit-text-size-adjust:100%
-}
-
+  -webkit-text-size-adjust:100%}
+/*Press Release Click*/
 summary {
   cursor: pointer;
-  outline:none;
-}
+  outline:none;}
+/*Bottom padding on Footer*/
+footer {padding-bottom:30px;}
 
-footer {
-  padding-bottom:30px;
-}
-
-li {
-  margin-left:0px
-}
-
-/*Class*/
+/*Classes*/
+/*Maximum width of Pages*/
 .container {
-  max-width: 730px
-}
-
+  max-width: 730px;}
+/*Removing Bottom Border from Header*/
 .page-header {
-  border-bottom:none;
-}
-
+  border-bottom:none;}
+/*Navigarion Tabs on Right*/
 .nav-right li {
-    float:right;
-}
-
+    float:right;}
+/*Navigation Pills on Center*/
 .center-pills {
     display: flex;
-    justify-content: center;
-}
+    justify-content: center;}
+/*Cursor Pointer for Onclick Event on Footer*/
+.cursor-pointer {
+    cursor:pointer;}
