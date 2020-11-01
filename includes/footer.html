@@ -1,49 +1,40 @@
-<html>
-<body>
-  <!--Footer-->
-  <small>
-  <hr>
-  <div class="row">
-    <div class="col-sm-3">
-      <h5>E-mail</h5>
-      <ul class="list-unstyled text-small">
-        <li class="text-muted" onclick="this.innerHTML = getInform('797565733131333040676d61696c2e636f6d')">
-          Protected
-        </li>
-      </ul>
-    </div>
-    <div class="col-sm-3">
-      <h5>Address</h5>
-      <ul class="list-unstyled text-small">
-        <li class="text-muted" onclick="this.innerHTML = getInform('48776172616e672d726f2031342d67696c2c2053656f6e6762756b2d67752c2053656f756c2030323739322c2052657075626c6963206f66204b6f726561')">
-          Protected
-        </li>
-      </ul>
-    </div>
-    <div class="col-sm-3">
-      <h5>Phone</h5>
-      <ul class="list-unstyled text-small">
-        <li class="text-muted" onclick="this.innerHTML = getInform('2b38322d322d3935382d36393832')">
-          Protected
-          </a>
-        </li>
-      </ul>
-    </div>
-    <div class="col-sm-3">
-      <h5>Last Update</h5>
-      <ul class="list-unstyled text-small">
-        <li class="text-muted">Nov. 1, 2020</li>
-      </ul>
-    </div>
+<!--Footer-->
+<small>
+<hr>
+<div class="row">
+  <!--Email-->
+  <div class="col-sm-3">
+    <h5>E-mail</h5>
+    <ul class="list-unstyled text-small">
+      <li class="text-muted" onclick="this.innerHTML = getInform('797565733131333040676d61696c2e636f6d')">
+        Click To Display
+      </li>
+    </ul>
   </div>
+  <!--Address-->
+  <div class="col-sm-3">
+    <h5>Address</h5>
+    <ul class="list-unstyled text-small">
+      <li class="text-muted" onclick="this.innerHTML = getInform('48776172616e672d726f2031342d67696c2c2053656f6e6762756b2d67752c2053656f756c2030323739322c2052657075626c6963206f66204b6f726561')">
+        Click To Display
+      </li>
+    </ul>
+  </div>
+  <!--Phone-->
+  <div class="col-sm-3">
+    <h5>Phone</h5>
+    <ul class="list-unstyled text-small">
+      <li class="text-muted" onclick="this.innerHTML = getInform('2b38322d322d3935382d36393832')">
+        Click To Display
+      </li>
+    </ul>
+  </div>
+  <!--Update-->
+  <div class="col-sm-3">
+    <h5>Last Update</h5>
+    <ul class="list-unstyled text-small">
+      <li class="text-muted">Nov. 1, 2020</li>
+    </ul>
+  </div>
+</div>
 </small>
-</body>
-<script>
-function getInform(hex) {
-    var str = '';
-    for (var i = 0; i < hex.length; i += 2)
-        str += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
-    return str;
-}
-</script>
-</html>
