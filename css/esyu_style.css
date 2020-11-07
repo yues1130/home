@@ -1,30 +1,99 @@
-/*Tags*/
-/*Fonts of Whole Texts*/
+/*Global*/
 html {
   font-family:Arial, sans-serif;
   -ms-text-size-adjust:100%;
-  -webkit-text-size-adjust:100%}
-/*Press Release Click*/
+  -webkit-text-size-adjust:100%
+}
+.container {
+  max-width: 730px; /*Maximum width of Pages*/
+}
+
+/*Header*/
+.page-header {
+  border-bottom:none;
+}
+.nav-right li {
+  float:right;
+}
+
+/*Major Pub*/
 summary {
   cursor: pointer;
-  outline:none;}
-/*Bottom padding on Footer*/
-footer {padding-bottom:30px;}
+  outline:none;
+}
+.MajorPub {
+  padding-left: 1em;
+  list-style: disc;
+}
+.MajorPub-detail {
+  padding-left: 0;
+  list-style:none;
+}
+.MajorPub-detail-award {
+  padding-left: 1.5em;
+  list-style: circle;
+}
+.MajorPub-detail-award-press {
+  margin-left: -1em;
+  padding-left: 0;
+  list-style: none;
+}
+.MajorPub-detail-award-press-detail {
+  padding-left: 1.6em;
+  list-style: square;
+  font-size:90%;
+}
 
-/*Classes*/
-/*Maximum width of Pages*/
-.container {
-  max-width: 730px;}
-/*Removing Bottom Border from Header*/
-.page-header {
-  border-bottom:none;}
-/*Navigarion Tabs on Right*/
-.nav-right li {
-    float:right;}
-/*Navigation Pills on Center*/
+/*CV style*/
+.CV {
+  padding-left: 1em;
+  list-style: disc;
+}
+.CV-detail {
+  padding-left: 1.5em;
+  list-style: circle;
+}
+
+/*Full Pub*/
 .center-pills {
-    display: flex;
-    justify-content: center;}
-/*Cursor Pointer for Onclick Event on Footer*/
+  display: flex;
+  justify-content: center;
+}
+.FullPub {
+  padding-left: 1em;
+}
+.FullPub-detail {
+  padding-left: 0;
+  list-style: none;
+}
+
+/*Footer*/
+footer {
+  padding-bottom:30px;
+}
 .cursor-pointer {
-    cursor:pointer;}
+  cursor:pointer;
+}
+
+/*Link style*/
+.Link1 {
+  padding-left: 2.5em;
+  list-style: circle;
+}
+.Link2 {
+  padding-left: 1em;
+  list-style: disc;
+}
+.Link2-detail {
+  padding-left: 1.5em;
+  list-style: circle;
+}
+
+/*Etc*//*
+.ul-no-left-padding {
+  padding-left: 1em;
+}
+.li-small-left-padding {
+  padding-left: 1.8em;
+}
+*/
