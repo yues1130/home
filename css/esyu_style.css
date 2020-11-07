@@ -28,6 +28,7 @@ summary {
 .MajorPub-detail {
   padding-left: 0;
   list-style:none;
+  margin-bottom: 0.5em;
 }
 .MajorPub-detail-award {
   padding-left: 1.5em;
@@ -65,6 +66,7 @@ summary {
 .FullPub-detail {
   padding-left: 0;
   list-style: none;
+  margin-bottom: 0.5em;
 }
 
 /*Footer*/
@@ -87,6 +89,7 @@ footer {
 .Link2-detail {
   padding-left: 1.5em;
   list-style: circle;
+  margin-bottom: 0.1em;
 }
 
 /*Etc*//*
