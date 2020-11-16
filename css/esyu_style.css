@@ -77,6 +77,14 @@ summary {
   font-weight: bold;
 }
 
+.Issued {
+  font-weight: bold;
+}
+
+.Conference {
+  font-weight: bold;
+}
+
 /*Footer*/
 footer {
   padding-bottom:30px;
