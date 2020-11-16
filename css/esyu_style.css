@@ -69,6 +69,13 @@ summary {
   margin-bottom: 0.5em;
 }
 
+.Title {
+}
+
+.Journal {
+  font-weight: bold;
+}
+
 /*Footer*/
 footer {
   padding-bottom:30px;
