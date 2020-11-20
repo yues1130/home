@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="../../js/includeHTML.js"></script>
+    <script src="../../js/getInform.js"></script>
+    <script src="../../js/load_conferences.js"></script>
     <link href="../../css/esyu_style.css" rel="stylesheet" type="text/css">
   </head>
   <body>
@@ -40,6 +42,7 @@
           <li role="presentation" class="active"><a>Conferences</a></li>
         </ul>
       </nav>
+
       <p><div id="Conferences"></div></p>
 
       <footer include-html="../../includes/footer.html"></footer>
@@ -47,57 +50,4 @@
     </div>
   </body>
 <script>includeHTML();</script>
-<script>function getInform(hex) {
-  var str = '';
-  for (var i = 0; i < hex.length; i += 2)
-  str += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
-  return str;
-}</script>
-
-<script>
-$(document).ready(function() {
-  $.getJSON('../../contents/conferences.json', function(data) {
-    //추후 getMembers 함수로 치환?
-    Members = ["Eui-Sang Yu"];
-
-    var items = [];
-    var num_Members = Members.length;
-      $.each( data, function( key, val ) {
-        var Title = val.Title;
-        var Author = val.Authors;
-        var Conf = val.Conf;
-        var ConfDur = val.ConfDur;
-        var ConfLoc = val.ConfLoc;
-        var ConfDate = val.ConfDate;
-
-        // 저자 중 members에 underline 표기
-        for (var m in Members) {
-          for (var n in Author) {
-            if (Author[n] == Members[m]) {
-              Author[n] = "<u>" + Author[n] + "</u>";
-            }
-          }
-        }
-
-        items.push("<li>");
-        items.push("<div class='Title'>" + Title + "</div>");
-        items.push("<ul class='FullPub-detail'>");
-        items.push("<li>" + Author.join(", ") + "</li>");
-
-        items.push("<li><span class='Conference'>" + Conf + "</span> (" + ConfDur + "), " + ConfLoc + ".</li>");
-
-        items.push("</ul>");
-        items.push("</li>");
-      });
-
-      $( "<ol/>", {
-        "class": "FullPub",
-        html: items.join( "" )
-      }).appendTo( '#Conferences' );
-    });
-  return false;
-});
-</script>
-<script>
-</script>
 </html>
