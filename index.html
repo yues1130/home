@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="js/includeHTML.js"></script>
+    <script src="js/getInform.js"></script>
     <link href="css/esyu_style.css" rel="stylesheet" type="text/css">
   </head>
   <body>
@@ -37,10 +38,4 @@
     </div>
   </body>
 <script>includeHTML();</script>
-<script>function getInform(hex) {
-  var str = '';
-  for (var i = 0; i < hex.length; i += 2)
-  str += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
-  return str;
-}</script>
 </html>
