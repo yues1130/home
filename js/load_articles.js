@@ -38,6 +38,8 @@ $(function () {
       pageSize: 10,
       callback: function(data, pagination) {
         var wrapper = $('#list .wrapper').empty();
+        var item = [];
+        var olStart = 0;
         $.each(data, function (key, val) {
           var Title = val.Title;
           var Link = val.Link;
@@ -48,9 +50,11 @@ $(function () {
           var Detail = val.Detail;
           var PubDate = val.PubDate;
           var IndexNum = val.IndexNum;
-          var item = [];
+          // ordered list 자동 계산
+          if (olStart == 0) {
+            olStart = IndexNum
+          }
 
-          item.push("<ol start='" + IndexNum + "' class='FullPub'>")
           // 저널이 Submitted이 아닐 때에만 hyperlink 추가
           if (Journal == "Submitted") {
             item.push("<li><div class='Title'>" + Title + "</div>");
@@ -73,9 +77,10 @@ $(function () {
           else {
             item.push("<li><span class='Journal'>" + Journal + "</span>, " + Detail + ".</li>");
           }
-          item.push("</ul></li></ol>")
-          $('#list .wrapper').append(item.join(""));
+          item.push("</ul></li>")
+
         });
+        $('#list .wrapper').append("<ol start='" + olStart + "' class='FullPub' >"+item.join("")+"</ol>");
       }
     });
   });
