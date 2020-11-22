@@ -1,355 +1,146 @@
 {
-  "Conferences": [
+  "Patents": [
     {
-      "Title": "Asymmetric Optical Reflection and Camouflage for Smart Displays and Sensors",
+      "Title": "Particle Collecting Device and Particle Sensing Method",
+      "Link": "",
       "Authors": [
-        "Seung-Yeol Lee","Young-Gyu Bae","Taehyun Kim","Jongsu Lee","Eui-Sang Yu","Yong-Sang Ryu"
+        "Yong-Sang Ryu","Deok Ha Woo","Eui-Sang Yu","Jongsu Lee","Yusin Pak","Minah Seo","Chulki Kim","Hyun Seok Song","Taikjin Lee","Myung-Suk Chun","Young Min Jhon","Young Tae Byun","Seok Lee","Jae Hun Kim"
       ],
-      "Conf": "The 20th International Meeting on Information Display",
-      "ConfDur": "2020, Aug. 25-28",
-      "ConfLoc": "Seoul, Republic of Korea",
-      "ConfDate": "2020-08-25",
+      "Country": "KR",
+      "PatentNo": "Application No. 10-2020-0096819",
+      "Filed": "Aug. 3, 2020",
+      "Issued": "",
+      "AGDate": "2020-08-03",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Tunable Optical Janus Effect with Liquid-permeable Meta-film Layers",
+    },
+    {
+      "Title": "Particle Collecting Device with Independent Floating Electrode and Particle Collecting Method Using Thereof",
+      "Link": "",
       "Authors": [
-        "Seung-Yeol Lee","Young-Gyu Bae","Taehyun Kim","Jongsu Lee","Eui-Sang Yu","Yong-Sang Ryu"
+        "Yong-Sang Ryu", "Eui-Sang Yu", "Jongsu Lee", "Ji Min Baek", "Yusin Pak", "Minah Seo", "Hyun Seok Song", "Young Tae Byun", "Myung-Suk Chun", "Taikjin Lee", "Young Min Jhon", "Deok Ha Woo", "Seok Lee", "Chulki Kim", "Jae Hun Kim"
       ],
-      "Conf": "The 14th Pacific Rim Conference on Lasers and Electro-Optics",
-      "ConfDur": "2020, Aug. 3-5",
-      "ConfLoc": "Sydney, Australia",
-      "ConfDate": "",
+      "Country": "KR",
+      "PatentNo": "Application No. 10-2020-0096818",
+      "Filed": "Aug. 3, 2020",
+      "Issued": "",
+      "AGDate": "2020-08-03",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Structural Coloring with Randomly Formed Gold-CYTOP-Gold Film Etalon Having Tunability with Infiltrated Solvents",
+    },
+    {
+      "Title": "Filter for Trapping Microparticulates in Air Pollutant Comprising Vertical Nano-gap Electrode with Multiple Holes and Device and Method for Reducing Microparticulates from the Air Using the Same",
+      "Link": "",
       "Authors": [
-        "Young-Gyu Bae","Taehyun Kim","Eui-Sang Yu","Jongsu Lee","Yong-Sang Ryu","Seung-Yeol Lee"
+        "Yong-Sang Ryu", "Sang Moon Kim", "Eui-Sang Yu", "Taehyun Kim", "Jongsu Lee"
       ],
-      "Conf": "2020 Optical Society of Korea Summer Meeting",
-      "ConfDur": "2020, Jul. 13-15",
-      "ConfLoc": "Busan, Republic of Korea",
-      "ConfDate": "",
+      "Country": "KR",
+      "PatentNo": "Application No. 10-2019-0117022",
+      "Filed": "Sep. 23, 2019",
+      "Issued": "",
+      "AGDate": "2019-09-23",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Electrokinetic Dynamics of Nanoparticles on Vertical Nanogap Architectures for Precise Capture and Dynamic Relocation",
+    },
+    {
+      "Title": "Two Side Display Device Using Nano-plasmonics and Manufacturing Method Thereof",
+      "Link": "",
       "Authors": [
-        "Eui-Sang Yu","Jongsu Lee","Taehyun Kim","Sangho Won","Eui-Tae Jeong","Sungryoung Koo","Ji Min Baek","Yong-Sang Ryu"
+        "Yong-Sang Ryu", "Eui-Sang Yu", "Taehyun Kim", "Taikjin Lee", "Jae Hun Kim", "Hyun Seok Song", "Cherlhyun Jeong", "Minah Seo", "Chulki Kim"
       ],
-      "Conf": "2020 Annual Spring Meeting of the Korean BioChip Society",
-      "ConfDur": "2020, Jul. 8-10",
-      "ConfLoc": "Yeosu, Republic of Korea",
-      "ConfDate": "",
+      "Country": "CN",
+      "PatentNo": "Application No. 2019-108732509",
+      "Filed": "Sep. 16, 2019",
+      "Issued": "",
+      "AGDate": "2019-09-16",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Bruggeman-films Based Fabry-Perot Etalons for Tunable Optical Structural Coloration",
+    },
+    {
+      "Title": "Nano Optical Sensor Capable of Wetting of Polar Solvent and Method for Analyzing Polar Solvent Using the Same",
+      "Link": "",
       "Authors": [
-        "Seung-Yeol Lee","Young-Gyu Bae","Taehyun Kim","Eui-Sang Yu","Jongsu Lee","Yong-Sang Ryu"
+        "Yong-Sang Ryu", "Eui-Sang Yu", "Cherlhyun Jeong", "Hyun Seok Song"
       ],
-      "Conf": "The 9th Korea-Japan Workshop on Digital Holography and Information Photonics",
-      "ConfDur": "2019, Dec. 17-20",
-      "ConfLoc": "Gwangju, Republic of Korea",
-      "ConfDate": "",
+      "Country": "KR",
+      "PatentNo": "Application No. 10-2019-0086228",
+      "Filed": "Jul. 17, 2019",
+      "Issued": "",
+      "AGDate": "2019-07-17",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Tunable Structural Coloration and Its Applications by Using a Bruggeman Meta-films",
+    },
+    {
+      "Title": "Screening Method for High-efficiency Biofuel-producing Strains by Dielectrophoretic Method Using Vertical Nano-gap Electrodes",
+      "Link": "http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&f=G&l=50&d=PG01&S1=16393967&OS=16393967&RS=16393967",
       "Authors": [
-        "Young-Gyu Bae","Seung-Yeol Lee","Taehyun Kim","Eui-Sang Yu","Jongsu Lee","Yong-Sang Ryu"
+        "Sun-Mi Lee", "Yong-Sang Ryu", "Eui-Sang Yu", "Jiwon Kim", "Ja Kyong Ko", "Gyeongtaek Gong", "Chulki Kim", "Jae Hun Kim"
       ],
-      "Conf": "2019 Photonics Conference of the Optical Society of Korea",
-      "ConfDur": "2019, Dec. 4-6",
-      "ConfLoc": "Pyeongchang, Republic of Korea",
-      "ConfDate": "",
+      "Country": "US",
+      "PatentNo": "Application No. 16393967",
+      "Filed": "Apr. 25, 2019",
+      "Issued": "",
+      "AGDate": "2019-04-25",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Structural Color Study of Metal Nano-island Composited Structure Using Bruggeman Effective Medium Theory and Thin Film Interference Theory",
+    },
+    {
+      "Title": "Two Side Display Device Using Nano-plasmonics and Manufacturing Method Thereof",
+      "Link": "https://doi.org/10.8080/1020190034926",
       "Authors": [
-        "Young-Gyu Bae","Seung-Yeol Lee","Taehyun Kim","Eui-Sang Yu","Jongsu Lee","Yong-Sang Ryu"
+        "Yong-Sang Ryu", "Eui-Sang Yu", "Taehyun Kim", "Taikjin Lee", "Jae Hun Kim", "Hyun Seok Song", "Cherlhyun Jeong", "Minah Seo", "Chulki Kim"
       ],
-      "Conf": "2019 Photonics Conference of the Optical Society of Korea",
-      "ConfDur": "2019, Dec. 4-6",
-      "ConfLoc": "Pyeongchang, Republic of Korea",
-      "ConfDate": "",
+      "Country": "KR",
+      "PatentNo": "Patent No. 10-21504650000",
+      "Filed": "Mar. 27, 2019",
+      "Issued": "Aug. 26, 2020",
+      "AGDate": "2020-08-26",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Optical Camouflage: Tunable Coloration Accompanied by Optical Janus Effect",
+    },
+    {
+      "Title": "Ultra High-throughput Screening of Efficient Biofuel-producing Microorganisms by Dielectrophoresis Using Vertical Nano-gap Electrodes",
+      "Link": "https://doi.org/10.8080/1020180163570",
       "Authors": [
-        "Eui-Sang Yu","Taehyun Kim","Jongsu Lee","Yong-Sang Ryu"
+        "Sun-Mi Lee", "Yong-Sang Ryu", "Eui-Sang Yu", "Jiwon Kim", "Ja Kyong Ko", "Gyeongtaek Gong", "Chulki Kim", "Jae Hun Kim"
       ],
-      "Conf": "2019 Material Research Society Fall Meeting, Exhibition",
-      "ConfDur": "2019, Dec. 1-6",
-      "ConfLoc": "Boston, MA, USA",
-      "ConfDate": "",
+      "Country": "KR",
+      "PatentNo": "Patent No. 10-21343940000",
+      "Filed": "Dec. 17, 2018",
+      "Issued": "Jul. 9, 2020",
+      "AGDate": "2020-07-09",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Visible Colorimetric Refractive Index Sensor with Highly Sensitive Wavelength Shift and Color Tunability",
+    },
+    {
+      "Title": "Vertical Nano-gap Electrodes for Dielectrophoresis, Method for Preparation Thereof, Method for Trapping and Separating Particles Using the Same",
+      "Link": "https://doi.org/10.8080/1020180033608",
       "Authors": [
-        "Eui-Sang Yu","Taehyun Kim","Jongsu Lee","Yong-Sang Ryu"
+        "Yong-Sang Ryu", "Eui-Sang Yu", "Chulki Kim", "Taikjin Lee", "Minah Seo", "Jae Hun Kim", "Young Min Jhon", "Sun-Mi Lee"
       ],
-      "Conf": "2019 Annual Fall Meeting of the Korean Sensors Society",
-      "ConfDur": "2019, Aug. 28-30",
-      "ConfLoc": "Gangneung, Republic of Korea",
-      "ConfDate": "",
+      "Country": "KR",
+      "PatentNo": "Patent No. 10-20600990000",
+      "Filed": "Mar. 23, 2018",
+      "Issued": "Dec. 20, 2019",
+      "AGDate": "2019-12-20",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Vertical Nanogap Electrodes for Low-Voltage Capture and Dynamic Relocation of Nanoparticulate Biomaterials",
+    },
+    {
+      "Title": "Optical Sensor, Manufacturing Method Thereof, and Fluid Analysis Method Using the Same",
+      "Link": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10488333.PN.&OS=PN/10488333&RS=PN/10488333",
       "Authors": [
-        "Eui-Sang Yu","Jongsu Lee","Taehyun Kim","Yong-Sang Ryu"
+        "Yong-Sang Ryu", "Chulki Kim", "Young Min Jhon", "Sin-Doo Lee", "Eui-Sang Yu", "Jae Hun Kim"
       ],
-      "Conf": "2019 Annual Fall Meeting of the Korean Sensors Society",
-      "ConfDur": "2019, Aug. 28-30",
-      "ConfLoc": "Gangneung, Republic of Korea",
-      "ConfDate": "",
+      "Country": "US",
+      "PatentNo": "Patent No. 10488333",
+      "Filed": "Mar. 26, 2018",
+      "Issued": "Nov. 26, 2019",
+      "AGDate": "2019-11-26",
       "IndexNum": [""]
-      },
-      {
-      "Title": "Analysis on Thin-film Resonance in Gold Nanoparticle Layer Composited Etalon via Bruggeman Effective Medium Theory",
+    },
+    {
+      "Title": "Optical Sensor, Manufacturing Method Thereof, and Fluid Analysis Method Using the Same",
+      "Link": "https://doi.org/10.8080/1020170132694",
       "Authors": [
-        "Young-Gyu Bae","Eui-Sang Yu","Yong-Sang Ryu","Seung-Yeol Lee"
+        "Yong-Sang Ryu", "Chulki Kim", "Young Min Jhon", "Sin-Doo Lee", "Eui-Sang Yu", "Jae Hun Kim"
       ],
-      "Conf": "Optics and Photonics Congress 2019 of the Optical Society of Korea",
-      "ConfDur": "2019, Jul. 14-17",
-      "ConfLoc": "Busan, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Trapping and Separation of Nano-exosomes by Dielectrophoresis on Vertical Nanogap Electrodes Device",
-      "Authors": [
-        "Eui-Sang Yu","Yong-Sang Ryu"
-      ],
-      "Conf": "2019 Annual Spring Meeting of the Korean Biochip Society",
-      "ConfDur": "2019, May 15-17",
-      "ConfLoc": "Seoul, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Low-volt Dielectrophoretic Trapping of Bioparticulates Using Vertical Nanogap Arrays",
-      "Authors": [
-        "Eui-Sang Yu","Yong-Sang Ryu"
-      ],
-      "Conf": "The 21st Korean MEMS Conference",
-      "ConfDur": "2019, Apr. 4-6",
-      "ConfLoc": "Jeju, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Dielectrophoretic Nanovesicle Sorter",
-      "Authors": [
-        "Eui-Sang Yu","Sang-Hyun Oh","Yong-Sang Ryu"
-      ],
-      "Conf": "The 6th Korean Society for Extracellular Vesicles Annual Meeting",
-      "ConfDur": "2018, Dec. 6-7",
-      "ConfLoc": "Seoul, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Vertical Nanogap Device for Electrodynamic Manipulation of Nano Particulate Bio Materials",
-      "Authors": [
-        "Eui-Sang Yu","Yong-Sang Ryu"
-      ],
-      "Conf": "2018 Annual Fall Meeting of the Korean Biochip Society",
-      "ConfDur": "2018, Nov. 8-10",
-      "ConfLoc": "Jeju, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Curvature Elasticity-driven Leaftlet Asymmetry and Inter-leaflet Raft Coupling in Supported Membranes",
-      "Authors": [
-        "Yeon-Kyung Lee","Eui-Sang Yu","Taehyun Kim","Yong-Sang Ryu"
-      ],
-      "Conf": "2018 Annual Fall Meeting of the Korean Biochip Society",
-      "ConfDur": "2018, Nov. 8-10",
-      "ConfLoc": "Jeju, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Dielectrophoretic Nanovesicle Sorter",
-      "Authors": [
-        "Eui-Sang Yu","Sang-Hyun Oh","Yong-Sang Ryu"
-      ],
-      "Conf": "International Society for Extracellular Vesicles 2019 Annual Meeting",
-      "ConfDur": "2019, Apr. 24-28",
-      "ConfLoc": "Kyoto, Japan",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Vertical Nanogap Devices Enabling High Throughput Nanoparticle Trapping and Concentration with Very Low Voltage Using Dielectrophoresis",
-      "Authors": [
-        "Eui-Sang Yu","Youngmo Jung","Donggeun Lee","Chulki Kim","Yong-Sang Ryu"
-      ],
-      "Conf": "The 20th Korean MEMS Conference",
-      "ConfDur": "2018, Apr. 5-7",
-      "ConfLoc": "Jeju, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Self-assembly-assisted Gold Nanostructure for Plasmonic Sensor",
-      "Authors": [
-        "Eui-Sang Yu","Sin-Hyung Lee","In-Ho Lee","Sang Hyun Lee","Yong-Sang Ryu","Sin-Doo Lee"
-      ],
-      "Conf": "The 8th International Conference on Metamaterials, Photonic Crystals and Plasmonics",
-      "ConfDur": "2017, Jul. 25-28",
-      "ConfLoc": "Incheon, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Vertical Nanogap Devices Enabling High Throughput Nanoparticle Trapping and Concentration with Very Low Voltage Using Dielectrophoresis",
-      "Authors": [
-        "Eui-Sang Yu","Youngmo Jung","Donggeun Lee","Chulki Kim","Yong-Sang Ryu"
-      ],
-      "Conf": "The 18th Korean MEMs Conference",
-      "ConfDur": "2017, Apr. 5-7",
-      "ConfLoc": "Jeju, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Anisotropic Fabry-Perot Resonators for Anti-counterfeiting Applications",
-      "Authors": [
-        "In-Ho Lee","Eui-Sang Yu","Se-Um Kim","Sin-Doo Lee"
-      ],
-      "Conf": "SPIE Organic Photonics + Electronics 2016",
-      "ConfDur": "2016, Aug. 28 - Sep. 1",
-      "ConfLoc": "San Diego, CA, USA",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Effect of Injection Barrier Height on Current On/Off Ratio of Vertical Organic-field-effect Transistor",
-      "Authors": [
-        "Gyujeong Lee","In-Ho Lee","Hea-Lim Park","Sin-Hyung Lee","Eui-Sang Yu","Bo-Yeon Lee","Sin-Doo Lee"
-      ],
-      "Conf": "The 16th International Meeting on Information Display",
-      "ConfDur": "2016, Aug. 23-26",
-      "ConfLoc": "Jeju, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Broadband Infra-red Absorbers by Metamaterial Based on Asymmetric Multi-gap Split Ring Resonators",
-      "Authors": [
-        "Eui-Sang Yu","In-Ho Lee","Sin-Hyung Lee","Namkyoo Park","Sin-Doo Lee"
-      ],
-      "Conf": "26th International Liquid Crystal Conference",
-      "ConfDur": "2016, Jul. 31 - Aug. 5",
-      "ConfLoc": "Kent, OH, USA",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Encapsulation Effect of Source Electrode on Gate-voltage Controllability in Vertical Organic Light-emitting Transistors",
-      "Authors": [
-        "Gyujeong Lee","In-Ho Lee","Hea-Lim Park","Bo-Yeon Lee","Sin-Hyung Lee","Eui-Sang Yu","Jongseok Han","Changhee Lee","Sin-Doo Lee"
-      ],
-      "Conf": "The 12th International Conference on Organic Electronics",
-      "ConfDur": "2016, Jun. 13-15",
-      "ConfLoc": "Bratislava, Slovakia",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Polarization-dependent Color Generation by Optically Anisotropic Film in Fabry-Perot Cavity",
-      "Authors": [
-        "In-Ho Lee","Eui-Sang Yu","Se-Um Kim","Sin-Doo Lee"
-      ],
-      "Conf": "16th Topical Meeting on the Optics of Liquid Crystals",
-      "ConfDur": "2015, Sep. 13-18",
-      "ConfLoc": "Sopot, Poland",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Fabrication of In-cell Color Patterns Based on Reactive Mesogens for Reflective Liquid Crystal Displays",
-      "Authors": [
-        "Se-Um Kim","Eui-Sang Yu","In-Ho Lee","Sin-Doo Lee"
-      ],
-      "Conf": "16th Topical Meeting on the Optics of Liquid Crystals",
-      "ConfDur": "2015, Sep. 13-18",
-      "ConfLoc": "Sopot, Poland",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Control of Injection Barrier in Organic Field-effect Transistor by Semiconducting Organic Buffer Layer",
-      "Authors": [
-        "Gyujeong Lee","Sin-Hyung Lee","Chang-Min Keum","Min-Hoi Kim","Eui-Sang Yu","Sin-Doo Lee"
-      ],
-      "Conf": "The 11th International Conference on Organic Electronics",
-      "ConfDur": "2015, Jun. 15-17",
-      "ConfLoc": "Erlangen, Germany",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Dependence of the Dynamic Response of a Phototransistor on the Dielectric/Organic Semiconductor Interface",
-      "Authors": [
-        "Hea-Lim Park","Chang-Min Keum","Min-Hoi Kim","Sin-Hyung Lee","Eui-Sang Yu","Sin-Doo Lee"
-      ],
-      "Conf": "The 26th International Conference on Molecular Electronics and Devices",
-      "ConfDur": "2015, May 19-20",
-      "ConfLoc": "Seoul, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Dependence of the Electro-optical Properties of Vertically Aligned Liquid Crystal Device by Domain Separation of Reactive Mesogens",
-      "Authors": [
-        "Eui-Sang Yu","Se-Um Kim","Jeng-Hun Suh","Jiyoon Kim","Sin-Doo Lee"
-      ],
-      "Conf": "The 4th Symposium on Liquid Crystal Photonics 2015",
-      "ConfDur": "2015, Apr. 18-22",
-      "ConfLoc": "ShenZhen, China",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Control of the Anchoring Energy in the Vertical Alignment by a Homeotropic Alignment Agent Blended with a Reactive Mesogen",
-      "Authors": [
-        "Eui-Sang Yu","Se-Um Kim","Sin-Doo Lee"
-      ],
-      "Conf": "The 14th International Meeting on Information Display",
-      "ConfDur": "2014, Aug. 26-29",
-      "ConfLoc": "Daegu, Republic of Korea",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Multi-directional Colloidal Assembly on Wrinkled Liquid Crystalline Polymer Template",
-      "Authors": [
-        "Se-Um Kim","Jiyoon Kim","Eui-Sang Yu","In-Ho Lee","Bo-Yeon Lee","Sin-Doo Lee"
-      ],
-      "Conf": "The 25th International Liquid Crystal Conference",
-      "ConfDur": "2014, Jun. 29 - Jul. 4",
-      "ConfLoc": "Dublin, Ireland",
-      "ConfDate": "",
-      "IndexNum": [""]
-      },
-      {
-      "Title": "Effect of Oxygen Plasma Treatment of Ag Electrode on Mobility Enhancement in Organic Thin-film Transistors",
-      "Authors": [
-        "Maria Bortnichenko","Gyujeong Lee","Chang-Min Keum","Sin-Hyung Lee","Eui-Sang Yu","Sin-Doo Lee"
-      ],
-      "Conf": "The 25th International Conference on Molecular Electronics and Devices",
-      "ConfDur": "2014, May 15-16",
-      "ConfLoc": "Seoul, Republic of Korea",
-      "ConfDate": "",
+      "Country": "KR",
+      "PatentNo": "Patent No. 10-19372940000",
+      "Filed": "Oct. 12, 2017",
+      "Issued": "Jan. 4, 2019",
+      "AGDate": "2019-01-04",
       "IndexNum": [""]
     }
   ]
