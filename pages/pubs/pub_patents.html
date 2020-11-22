@@ -6,13 +6,15 @@
     <meta name="author" content="Eui-Sang Yu">
     <meta name="description" content="Eui-Sang Yu, a Postdoctoral Researcher at KIST">
     <title>Eui-Sang Yu - Postdoctoral Researcher at KIST</title>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="../../js/includeHTML.js"></script>
     <script src="../../js/getInform.js"></script>
     <script src="../../js/load_patents.js"></script>
+    <script src="../../js/pagination.js"></script>
+
+    <link rel="stylesheet" href="../../css/pagination.css"/>
     <link href="../../css/esyu_style.css" rel="stylesheet" type="text/css">
   </head>
   <body>
@@ -43,7 +45,11 @@
         </ul>
       </nav>
 
-      <p><div id="Patents"></div></p>
+      <br>
+      <div id="list">
+        <br>
+        <div class="wrapper"></div>
+      </div>
 
       <footer include-html="../../includes/footer.html"></footer>
 
