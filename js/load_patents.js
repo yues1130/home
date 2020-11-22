@@ -23,6 +23,8 @@ $(function () {
       pageSize: 10,
       callback: function(data, pagination) {
         var wrapper = $('#list .wrapper').empty();
+        var item = [];
+        var olStart = 0;
         $.each(data, function (key, val) {
           var Title = val.Title;
           var Link = val.Link;
@@ -33,9 +35,12 @@ $(function () {
           var Issued = val.Issued;
           var AGDate = val.AGDate;
           var IndexNum = val.IndexNum;
-          var item = [];
+          // ordered list 자동 계산
+          if (olStart == 0) {
+            olStart = IndexNum
+          }
 
-          item.push("<ol start='" + IndexNum + "' class='FullPub'>")
+
           if (Link != "") {
             item.push("<li><a href='" + Link + "' target='_blank' class='Title'>" + Title + "</a>");
           }
@@ -51,9 +56,10 @@ $(function () {
           else {
             item.push("<li>" + Country + " " + PatentNo + ", field " + Filed + ".</li>");
           }
-          item.push("</ul></li></ol>")
-          $('#list .wrapper').append(item.join(""));
+          item.push("</ul></li>")
+
         });
+        $('#list .wrapper').append("<ol start='" + olStart + "' class='FullPub' >"+item.join("")+"</ol>");
       }
     });
   });
