@@ -1,42 +1,46 @@
-$(document).ready(function() {
-  $.getJSON('../../contents/conferences.json', function(data) {
-    //추후 getMembers 함수로 치환?
-    Members = ["Eui-Sang Yu"];
+$(function () {
+  $.getJSON('../../contents/conferences.json', function (json) {
+    var index = 1
+    $.each(json.Conferences, function (key, val) {
+      val.IndexNum[0] = index
+      index++;
 
-    var items = [];
-    var num_Members = Members.length;
-      $.each( data, function( key, val ) {
-        var Title = val.Title;
-        var Author = val.Authors;
-        var Conf = val.Conf;
-        var ConfDur = val.ConfDur;
-        var ConfLoc = val.ConfLoc;
-        var ConfDate = val.ConfDate;
-
-        // 저자 중 members에 underline 표기
-        for (var m in Members) {
-          for (var n in Author) {
-            if (Author[n] == Members[m]) {
-              Author[n] = "<u>" + Author[n] + "</u>";
-            }
+      Members = ["Eui-Sang Yu"];
+      var Author = val.Authors;
+      // 저자 중 members에 underline 표기
+      for (var m in Members) {
+        for (var n in Author) {
+          if (Author[n] == Members[m]) {
+            Author[n] = "<u>" + Author[n] + "</u>";
           }
         }
-
-        items.push("<li>");
-        items.push("<div class='Title'>" + Title + "</div>");
-        items.push("<ul class='FullPub-detail'>");
-        items.push("<li>" + Author.join(", ") + "</li>");
-
-        items.push("<li><span class='Conference'>" + Conf + "</span> (" + ConfDur + "), " + ConfLoc + ".</li>");
-
-        items.push("</ul>");
-        items.push("</li>");
-      });
-
-      $( "<ol/>", {
-        "class": "FullPub",
-        html: items.join( "" )
-      }).appendTo( '#Conferences' );
+      }
     });
-  return false;
+
+    $('#list').pagination({
+      dataSource: json.Conferences,
+      pageSize: 10,
+      callback: function(data, pagination) {
+        var wrapper = $('#list .wrapper').empty();
+        $.each(data, function (key, val) {
+          var Title = val.Title;
+          var Author = val.Authors;
+          var Conf = val.Conf;
+          var ConfDur = val.ConfDur;
+          var ConfLoc = val.ConfLoc;
+          var ConfDate = val.ConfDate;
+          var IndexNum = val.IndexNum;
+          var item = [];
+
+          item.push("<ol start='" + IndexNum + "' class='FullPub'>")
+          item.push("<li><span class='Title'>" + Title + "</span>");
+          item.push("<ul class='FullPub-detail'>");
+          item.push("<li>" + Author.join(", ") + "</li>");
+          item.push("<li><span class='Conference'>" + Conf + "</span> (" + ConfDur + "), " + ConfLoc + ".</li>");
+          item.push("</ul></li></ol>")
+          $('#list .wrapper').append(item.join(""));
+        });
+      }
+    });
+  });
 });
