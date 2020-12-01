@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yues1130.github.io/home/sitemap.xml
