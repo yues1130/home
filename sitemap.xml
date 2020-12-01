@@ -1,38 +1,21 @@
+  
 ---
-layout: null
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://yues1130.github.io/home/</loc>
-<lastmod>2020-12-01T20:14:10+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://yues1130.github.io/home/pages/link.html</loc>
-<lastmod>2020-12-01T20:14:10+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://yues1130.github.io/home/pages/pubs.html</loc>
-<lastmod>2020-12-01T20:14:10+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://yues1130.github.io/home/index.html</loc>
-<lastmod>2020-12-01T20:14:10+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://yues1130.github.io/home/pages/pubs/pub_patents.html</loc>
-<lastmod>2020-12-01T20:14:10+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://yues1130.github.io/home/pages/pubs/pub_conferences.html</loc>
-<lastmod>2020-12-01T20:14:10+00:00</lastmod>
-<priority>0.64</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endfor %}
+
+    {% for page in site.pages %}
+    {% if page.layout != nil %}
+    {% if page.layout != 'feed' %}
+    <url>
+        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
 </urlset>
