@@ -3,28 +3,41 @@ layout: null
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://yues1130.github.io/home{{ post.url }}.html</loc>
-        {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-        {% endif %}
-
-        {% if post.sitemap.changefreq == null %}
-        <changefreq>weekly</changefreq>
-        {% else %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-        {% endif %}
-
-        {% if post.sitemap.priority == null %}
-        <priority>0.5</priority>
-        {% else %}
-        <priority>{{ post.sitemap.priority }}</priority>
-        {% endif %}
-
-    </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        <url>
+                <loc>https://yues1130.github.io/home/</loc>
+                <lastmod>2020-12-02T05:42:52+00:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>1.00</priority>
+        </url>
+        <url>
+                <loc>https://yues1130.github.io/home/pages/link.html</loc>
+                <lastmod>2020-12-02T05:42:52+00:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+        </url>
+        <url>
+                <loc>https://yues1130.github.io/home/pages/pubs.html</loc>
+                <lastmod>2020-12-02T05:42:52+00:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+        </url>
+        <url>
+                <loc>https://yues1130.github.io/home/index.html</loc>
+                <lastmod>2020-12-02T05:42:52+00:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.64</priority>
+        </url>
+        <url>
+                <loc>https://yues1130.github.io/home/pages/pubs/pub_patents.html</loc>
+                <lastmod>2020-12-02T05:42:52+00:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.64</priority>
+        </url>
+        <url>
+                <loc>https://yues1130.github.io/home/pages/pubs/pub_conferences.html</loc>
+                <lastmod>2020-12-02T05:42:52+00:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.64</priority>
+        </url>
 </urlset>
