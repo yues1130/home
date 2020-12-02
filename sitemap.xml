@@ -27,5 +27,4 @@ layout: null
         {% endif %}
 
     </url>
-    {% endfor %}
 </urlset>
