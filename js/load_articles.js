@@ -56,11 +56,11 @@ $(function () {
           }
 
           // Link가 있을 때에만 hyperlink 추가
-          if (Link == "") {
-            item.push("<li><div class='Title'>" + Title + "</div>");
+          if (Link != "") {
+            item.push("<li><a href='" + Link + "' target='_blank' class='Title'>" + Title + "</a>");
           }
           else {
-            item.push("<li><a href='" + Link + "' target='_blank' class='Title'>" + Title + "</a>");
+            item.push("<li><div class='Title'>" + Title + "</div>");
           }
           // First Author가 여러명이면 Contribution을 표기
           item.push("<ul class='FullPub-detail'>");
@@ -71,6 +71,7 @@ $(function () {
             item.push("<li>" + FirstAuthor.join("<sup>&#167;</sup>, ") + "<sup>&#167;</sup>, " + CoAuthor.join(", ") + ", " + CorresAuthor.join(", ") + " (<sup>&#167;</sup>These authors contributed equally)</li>");
           }
           // Detail 있을 때에만 추가
+          
           if (Detail != "") {
             item.push("<li><span class='Journal'>" + Journal + "</span>, " + Detail + ".</li>");
           }
