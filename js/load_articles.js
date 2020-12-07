@@ -56,7 +56,7 @@ $(function () {
           }
 
           // Link가 있을 때에만 hyperlink 추가
-          if ((Journal == "Submitted")||(Detail == "Accepted")) {
+          if (Link == "") {
             item.push("<li><div class='Title'>" + Title + "</div>");
           }
           else {
@@ -71,7 +71,7 @@ $(function () {
             item.push("<li>" + FirstAuthor.join("<sup>&#167;</sup>, ") + "<sup>&#167;</sup>, " + CoAuthor.join(", ") + ", " + CorresAuthor.join(", ") + " (<sup>&#167;</sup>These authors contributed equally)</li>");
           }
           // Detail 있을 때에만 추가
-          if (Journal == "Submitted") {
+          if (Detail != "") {
             item.push("<li><span class='Journal'>" + Journal + "</span>, " + Detail + ".</li>");
           }
           else {
