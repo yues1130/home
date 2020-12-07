@@ -56,7 +56,7 @@ $(function () {
           }
 
           // 저널이 Submitted이 아닐 때에만 hyperlink 추가
-          if (Journal == "Submitted") {
+          if ((Journal == "Submitted")||(Detail == "Accepted")) {
             item.push("<li><div class='Title'>" + Title + "</div>");
           }
           else {
