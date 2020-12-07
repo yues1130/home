@@ -55,8 +55,8 @@ $(function () {
             olStart = IndexNum
           }
 
-          // 저널이 Submitted이 아닐 때에만 hyperlink 추가
-          if (Journal == "Submitted") {
+          // Link가 있을 때에만 hyperlink 추가
+          if (Link == "") {
             item.push("<li><div class='Title'>" + Title + "</div>");
           }
           else {
@@ -70,8 +70,8 @@ $(function () {
           else if (FirstAuthor.length > 1) {
             item.push("<li>" + FirstAuthor.join("<sup>&#167;</sup>, ") + "<sup>&#167;</sup>, " + CoAuthor.join(", ") + ", " + CorresAuthor.join(", ") + " (<sup>&#167;</sup>These authors contributed equally)</li>");
           }
-          // Submitted일 경우 Detial 생략
-          if (Journal == "Submitted") {
+          // Detail 있을 때에만 추가
+          if (Detail == "") {
             item.push("<li><span class='Journal'>" + Journal + "</span>.</li>");
           }
           else {
