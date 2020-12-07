@@ -38,8 +38,6 @@ $(function () {
       pageSize: 10,
       callback: function(data, pagination) {
         var wrapper = $('#list .wrapper').empty();
-        var item = [];
-        var olStart = 0;
         $.each(data, function (key, val) {
           var Title = val.Title;
           var Link = val.Link;
@@ -50,17 +48,15 @@ $(function () {
           var Detail = val.Detail;
           var PubDate = val.PubDate;
           var IndexNum = val.IndexNum;
-          // ordered list 자동 계산
-          if (olStart == 0) {
-            olStart = IndexNum
-          }
+          var item = [];
 
-          // Link가 있을 때에만 hyperlink 추가
-          if (Link != "") {
-            item.push("<li><a href='" + Link + "' target='_blank' class='Title'>" + Title + "</a>");
+          item.push("<ol start='" + IndexNum + "' class='FullPub'>")
+          // 저널이 Submitted이 아닐 때에만 hyperlink 추가
+          if (Journal == "Submitted") {
+            item.push("<li><div class='Title'>" + Title + "</div>");
           }
           else {
-            item.push("<li><div class='Title'>" + Title + "</div>");
+            item.push("<li><a href='" + Link + "' target='_blank' class='Title'>" + Title + "</a>");
           }
           // First Author가 여러명이면 Contribution을 표기
           item.push("<ul class='FullPub-detail'>");
@@ -70,18 +66,16 @@ $(function () {
           else if (FirstAuthor.length > 1) {
             item.push("<li>" + FirstAuthor.join("<sup>&#167;</sup>, ") + "<sup>&#167;</sup>, " + CoAuthor.join(", ") + ", " + CorresAuthor.join(", ") + " (<sup>&#167;</sup>These authors contributed equally)</li>");
           }
-          // Detail 있을 때에만 추가
-          
-          if (Detail != "") {
-            item.push("<li><span class='Journal'>" + Journal + "</span>, " + Detail + ".</li>");
-          }
-          else {
+          // Submitted일 경우 Detial 생략
+          if (Journal == "Submitted") {
             item.push("<li><span class='Journal'>" + Journal + "</span>.</li>");
           }
-          item.push("</ul></li>")
-
+          else {
+            item.push("<li><span class='Journal'>" + Journal + "</span>, " + Detail + ".</li>");
+          }
+          item.push("</ul></li></ol>")
+          $('#list .wrapper').append(item.join(""));
         });
-        $('#list .wrapper').append("<ol start='" + olStart + "' class='FullPub' >"+item.join("")+"</ol>");
       }
     });
   });
