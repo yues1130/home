@@ -22,27 +22,6 @@
       "IndexNum": [""]
     },
     {
-      "Title": "Physicochemical Modulation of Thin-film Etalon for Liquid-sensitive Color Display with Full-color Spectrum Generation",
-      "Link": "",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Hee-Dong Jeong", "Jongsu Lee"
-          ],
-          "CoAuthor": [
-            "Eui-Sang Yu","Taehyun Kim","In Soo Kim","Sin-Doo Lee"
-          ],
-          "CorresAuthor": [
-            "Yong-Sang Ryu","Seung-Yeol Lee"
-          ]
-        }
-      ],
-      "Journal": "Submitted",
-      "Detail": "",
-      "PubDate": "2020-10-15",
-      "IndexNum": [""]
-    },
-    {
       "Title": "Ionic Contrast Across a Lipid Membrane for Debye Length Extension: Towards an Ultimate Bioelectronics Transducer",
       "Link": "",
       "Authors": [
@@ -61,6 +40,27 @@
       "Journal": "Submitted",
       "Detail": "",
       "PubDate": "2020-10-10",
+      "IndexNum": [""]
+    },
+    {
+      "Title": "Physicochemical Modulation of Thin-film Etalon for Liquid-sensitive Color Display with Full-color Spectrum Generation",
+      "Link": "",
+      "Authors": [
+        {
+          "FirstAuthor": [
+            "Hee-Dong Jeong", "Jongsu Lee"
+          ],
+          "CoAuthor": [
+            "Eui-Sang Yu","Taehyun Kim","In Soo Kim","Sin-Doo Lee"
+          ],
+          "CorresAuthor": [
+            "Yong-Sang Ryu","Seung-Yeol Lee"
+          ]
+        }
+      ],
+      "Journal": "ACS Applied Nano Materials",
+      "Detail": "Accepted",
+      "PubDate": "2020-10-15",
       "IndexNum": [""]
     },
     {
