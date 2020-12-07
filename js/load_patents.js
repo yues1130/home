@@ -51,10 +51,10 @@ $(function () {
           item.push("<li>" + Author.join(", ") + "</li>");
           // 특허 issued됐을 경우 해당 정보 추가
           if (Issued != "") {
-            item.push("<li>" + Country + " " + PatentNo + ", field " + Filed + " and <span class='Issued'> issued " + Issued + "</span>.</li>");
+            item.push("<li>" + Country + " " + PatentNo + ", filed " + Filed + " and <span class='Issued'> issued " + Issued + "</span>.</li>");
           }
           else {
-            item.push("<li>" + Country + " " + PatentNo + ", field " + Filed + ".</li>");
+            item.push("<li>" + Country + " " + PatentNo + ", filed " + Filed + ".</li>");
           }
           item.push("</ul></li>")
 
