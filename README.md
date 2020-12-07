@@ -1,1 +1,3 @@
-# home
+# Personal Website
+
+Based on HTML/CSS/JS
