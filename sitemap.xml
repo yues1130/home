@@ -11,7 +11,7 @@ layout: null
                 <priority>1.00</priority>
         </url>
         <url>
-                <loc>https://yues1130.github.io/home/pages/link.html</loc>
+                <loc>https://yues1130.github.io/home/index.html</loc>
                 <lastmod>2020-12-02T05:42:52+00:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
@@ -23,12 +23,6 @@ layout: null
                 <priority>0.80</priority>
         </url>
         <url>
-                <loc>https://yues1130.github.io/home/index.html</loc>
-                <lastmod>2020-12-02T05:42:52+00:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.64</priority>
-        </url>
-        <url>
                 <loc>https://yues1130.github.io/home/pages/pubs/pub_patents.html</loc>
                 <lastmod>2020-12-02T05:42:52+00:00</lastmod>
                 <changefreq>weekly</changefreq>
@@ -36,6 +30,12 @@ layout: null
         </url>
         <url>
                 <loc>https://yues1130.github.io/home/pages/pubs/pub_conferences.html</loc>
+                <lastmod>2020-12-02T05:42:52+00:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.64</priority>
+        </url>
+        <url>
+                <loc>https://yues1130.github.io/home/pages/link.html</loc>
                 <lastmod>2020-12-02T05:42:52+00:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.64</priority>
