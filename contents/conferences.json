@@ -1,6 +1,17 @@
 {
   "Conferences": [
-    {
+      {
+      "Title": "Asymmetric Optical Camouflage: Tuneable Reflective Colour Accompanied by the Optical Janus Effect",
+      "Authors": [
+        "Eui-Sang Yu", "Taehyun Kim", "Young-Gyu Bae", "Jongsu Lee", "In Soo Kim", "Seok Chung", "Seung-Yeol Lee", "Yong-Sang Ryu"
+      ],
+      "Conf": "The 28th Korean Conference on Semiconductors",
+      "ConfDur": "2021, Jan. 25-29",
+      "ConfLoc": "Seoul, Republic of Korea",
+      "ConfDate": "2021-01-25",
+      "IndexNum": [""]
+      },
+      {
       "Title": "Asymmetric Optical Reflection and Camouflage for Smart Displays and Sensors",
       "Authors": [
         "Seung-Yeol Lee","Young-Gyu Bae","Taehyun Kim","Jongsu Lee","Eui-Sang Yu","Yong-Sang Ryu"
