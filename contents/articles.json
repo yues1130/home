@@ -1,27 +1,6 @@
 {
   "Articles": [
     {
-      "Title": "Nanoscale Terahertz Monitoring on Multi-phase Dynamic Assembly of Nanoparticles under Aqueous Environment",
-      "Link": "",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Eui-Sang Yu"
-          ],
-          "CoAuthor": [
-            "Sang-Hun Lee","Geon Lee","Q-Han Park","Aram J. Chung"
-          ],
-          "CorresAuthor": [
-            "Minah Seo","Yong-Sang Ryu"
-          ]
-        }
-      ],
-      "Journal": "Submitted",
-      "Detail": "",
-      "PubDate": "2020-11-01",
-      "IndexNum": [""]
-    },
-    {
       "Title": "Ionic Contrast Across a Lipid Membrane for Debye Length Extension: Towards an Ultimate Bioelectronics Transducer",
       "Link": "",
       "Authors": [
@@ -43,6 +22,27 @@
       "IndexNum": [""]
     },
     {
+      "Title": "Nanoscale Terahertz Monitoring on Multi-phase Dynamic Assembly of Nanoparticles under Aqueous Environment",
+      "Link": "",
+      "Authors": [
+        {
+          "FirstAuthor": [
+            "Eui-Sang Yu"
+          ],
+          "CoAuthor": [
+            "Sang-Hun Lee","Geon Lee","Q-Han Park","Aram J. Chung"
+          ],
+          "CorresAuthor": [
+            "Minah Seo","Yong-Sang Ryu"
+          ]
+        }
+      ],
+      "Journal": "Advanced Science",
+      "Detail": "Accepted",
+      "PubDate": "2021-02-18",
+      "IndexNum": [""]
+    },
+    {
       "Title": "Physicochemical Modulation of Nanometer-Thick Etalon Films for Liquid-Sensitive Color Display with Full-Color Spectrum Generation",
       "Link": "https://doi.org/10.1021/acsanm.0c02746",
       "Authors": [
@@ -60,7 +60,7 @@
       ],
       "Journal": "ACS Applied Nano Materials",
       "Detail": "4(1), 389–395 (2021)",
-      "PubDate": "2020-10-15",
+      "PubDate": "2020-12-24",
       "IndexNum": [""]
     },
     {
