@@ -1,6 +1,28 @@
 {
   "Articles": [
     {
+      "Title": "Development of a Photonic Switch via Electro-capillarity-Induced Water Penetration across a 10-nm Gap",
+      "Link": "",
+      "Authors": [
+        {
+          "FirstAuthor": [
+            "Eui-Sang Yu"
+          ],
+          "CoAuthor": [
+            "Kyomin Chae", "Taehyun Kim", "Jongsu Lee", "Jungmok Seo", "In Soo Kim", "Aram J. Chung", "Sin-Doo Lee"
+          ],
+          "CorresAuthor": [
+            "Yong-Sang Ryu"
+          ]
+        }
+      ],
+      "Journal": "Small",
+      "Detail": "Accepted",
+      "PubDate": "2022-01-26",
+      "IndexNum": [""]
+    },
+  "Articles": [
+    {
       "Title": "The Perspectives of Broadband Metasurfaces and Photo-electric Tweezer Applications",
       "Link": "https://doi.org/10.1515/nanoph-2021-0711",
       "Authors": [
