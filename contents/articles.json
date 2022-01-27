@@ -1,5 +1,4 @@
-{
-  "Articles": [
+{"Articles": [
     {
       "Title": "Development of a Photonic Switch via Electro-capillarity-Induced Water Penetration across a 10-nm Gap",
       "Link": "",
@@ -21,7 +20,6 @@
       "PubDate": "2022-01-26",
       "IndexNum": [""]
     },
-  "Articles": [
     {
       "Title": "The Perspectives of Broadband Metasurfaces and Photo-electric Tweezer Applications",
       "Link": "https://doi.org/10.1515/nanoph-2021-0711",
@@ -43,320 +41,320 @@
       "PubDate": "2022-01-24",
       "IndexNum": [""]
     },
-    {
-      "Title": "Ionic Contrast Across a Lipid Membrane for Debye Length Extension: Towards an Ultimate Bioelectronics Transducer",
-      "Link": "https://doi.org/10.1038/s41467-021-24122-8",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Donggeun Lee"
-          ],
-          "CoAuthor": [
-            "Suho Lee","Eui-Sang Yu","Taikjin Lee","Jae Hun Kim","Hyun Seok Song","Kwan Hyi Lee","Seok Lee","Sang-Kook Han","Myung Chul Choi"
-          ],
-          "CorresAuthor": [
-            "Chulki Kim","Yong-Sang Ryu"
-          ]
-        }
-      ],
-      "Journal": "Nature Communications",
-      "Detail": "12, 3741 (2021)",
-      "PubDate": "2021-06-18",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Nanoscale Terahertz Monitoring on Multi-phase Dynamic Assembly of Nanoparticles under Aqueous Environment",
-      "Link": "https://doi.org/10.1002/advs.202004826",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Eui-Sang Yu"
-          ],
-          "CoAuthor": [
-            "Sang-Hun Lee","Geon Lee","Q-Han Park","Aram J. Chung"
-          ],
-          "CorresAuthor": [
-            "Minah Seo","Yong-Sang Ryu"
-          ]
-        }
-      ],
-      "Journal": "Advanced Science",
-      "Detail": "8, 2004826 (2021)",
-      "PubDate": "2021-03-24",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Physicochemical Modulation of Nanometer-Thick Etalon Films for Liquid-Sensitive Color Display with Full-Color Spectrum Generation",
-      "Link": "https://doi.org/10.1021/acsanm.0c02746",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Hee-Dong Jeong", "Jongsu Lee"
-          ],
-          "CoAuthor": [
-            "Eui-Sang Yu","Taehyun Kim","In Soo Kim","Sin-Doo Lee"
-          ],
-          "CorresAuthor": [
-            "Yong-Sang Ryu","Seung-Yeol Lee"
-          ]
-        }
-      ],
-      "Journal": "ACS Applied Nano Materials",
-      "Detail": "4(1), 389–395 (2021)",
-      "PubDate": "2020-12-24",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Asymmetric Optical Camouflage: Tuneable Reflective Colour Accompanied by the Optical Janus Effect",
-      "Link": "https://doi.org/10.1038/s41377-020-00413-5",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Taehyun Kim","Eui-Sang Yu","Young-Gyu Bae"
-          ],
-          "CoAuthor": [
-            "Jongsu Lee","In Soo Kim","Seok Chung"
-          ],
-          "CorresAuthor": [
-            "Seung-Yeol Lee","Yong-Sang Ryu"
-          ]
-        }
-      ],
-      "Journal": "Light: Science & Applications",
-      "Detail": "9, 175 (2020)",
-      "PubDate": "2020-10-19",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Elasticity-Driven Membrane Budding through Cholesterol Concentration on Supported Lipid Monolayer-Bilayer Junction",
-      "Link": "https://doi.org/10.1002/admi.202000937",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Yeon Kyung Lee"
-          ],
-          "CoAuthor": [
-            "Eui-Sang Yu"
-          ],
-          "CorresAuthor": [
-            "Dong June Ahn","Yong-Sang Ryu"
-          ]
-        }
-      ],
-      "Journal": "Advanced Materials Interfaces",
-      "Detail": "2000937 (2020)",
-      "PubDate": "2020-09-13",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Observation of Structural Color in Random Au Nano-islands Fabricated on Dielectric Nanopillars",
-      "Link": "https://doi.org/10.1117/12.2573799",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Young-Gyu Bae"
-          ],
-          "CoAuthor": [
-            "Taehyun Kim","Jongsu Lee","Eui-Sang Yu","Yong-Sang Ryu"
-          ],
-          "CorresAuthor": [
-            "Seung-Yeol Lee"
-          ]
-        }
-      ],
-      "Journal": "Proceeding of SPIE",
-      "Detail": "11522, 1152210 (2020)",
-      "PubDate": "2020-06-15",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Precise Capture and Dynamic Relocation of Nanoparticulate Biomolecules through Dielectrophoretic Enhancement by Vertical Nanogap Architectures",
-      "Link": "https://doi.org/10.1038/s41467-020-16630-w",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Eui-Sang Yu"
-          ],
-          "CoAuthor": [
-            "Hyojin Lee","Sun-Mi Lee","Jiwon Kim","Taehyun Kim","Jongsu Lee","Chulki Kim","Minah Seo","Jae Hun Kim","Young Tae Byun","Seung-Chul Park","Seung-Yeol Lee"
-          ],
-          "CorresAuthor": [
-            "Sin-Doo Lee","Yong-Sang Ryu"
-          ]
-        }
-      ],
-      "Journal": "Nature Communications",
-      "Detail": "11, 1&ndash;9 (2020)",
-      "PubDate": "2020-06-04",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Full-Coloration Based on Metallic Nanostructures through Phase Discontinuity in Fabry-Perot Resonators",
-      "Link": "https://doi.org/10.1364/OE.27.033098",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "In-Ho Lee"
-          ],
-          "CoAuthor": [
-            "Eui-Sang Yu","Sin-Hyung Lee"
-          ],
-          "CorresAuthor": [
-            "Sin-Doo Lee"
-          ]
-        }
-      ],
-      "Journal": "Optics Express",
-      "Detail": "27(23), 33098&ndash;33110 (2019)",
-      "PubDate": "2019-10-28",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Highly Sensitive Color Tunability by Scalable Nanomorphology of a Dielectric Layer in Liquid&ndash;Permeable Metal&ndash;Insulator&ndash;Metal Structure",
-      "Link": "http://doi.org/10.1021/acsami.8b12553",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Eui-Sang Yu"
-          ],
-          "CoAuthor": [
-            "Sin-Hyung Lee","Young-Gyu Bae","Jaebin Choi","Donggeun Lee","Chulki Kim","Taikjin Lee","Seung-Yeol Lee"
-          ],
-          "CorresAuthor": [
-            "Sin-Doo Lee","Yong-Sang Ryu"
-          ]
-        }
-      ],
-      "Journal": "ACS Applied Materials & Interfaces",
-      "Detail": "10(44), 38581&ndash;38587 (2018)",
-      "PubDate": "2018-10-08",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Ultrasensitive Terahertz Sensing of Gold Nanoparticles inside Nano Slot Antennas",
-      "Link": "https://doi.org/10.1364/OE.25.030591",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Yong-Sang Ryu"
-          ],
-          "CoAuthor": [
-            "Dong-Kyu Lee","Ji-Hun Kang","Sang-Hun Lee","Eui-Sang Yu"
-          ],
-          "CorresAuthor": [
-            "Minah Seo"
-          ]
-        }
-      ],
-      "Journal": "Optics Express",
-      "Detail": "25(24), 30591&ndash;30597 (2017)",
-      "PubDate": "2017-11-21",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Array of Liquid Crystal Polymer-based Fabry-Perot Resonators for Image Selection by Polarization",
-      "Link": "https://doi.org/10.1117/12.2236167",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "In-Ho Lee"
-          ],
-          "CoAuthor": [
-            "Eui-Sang Yu","Se-Um Kim"
-          ],
-          "CorresAuthor": [
-            "Sin-Doo Lee"
-          ]
-        }
-      ],
-      "Journal": "Proceedings of SPIE",
-      "Detail": "9940, 994003 (2016)",
-      "PubDate": "2016-09-23",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "The Domain Mixing Effect on the Electro-optical Properties of Liquid Crystals Using Polyimide Doped with Reactive Mesogen",
-      "Link": "https://doi.org/10.1080/15980316.2016.1208631",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Eui-Sang Yu"
-          ],
-          "CoAuthor": [
-            "Se-Um Kim","Jeng-Hun Suh","Jiyoon Kim","Jun-Hee Na"
-          ],
-          "CorresAuthor": [
-            "Sin-Doo Lee"
-          ]
-        }
-      ],
-      "Journal": "Journal of Information Display",
-      "Detail": "17(3), 125&ndash;130 (2016)",
-      "PubDate": "2016-07-26",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Electrowetting-on-Dielectric Device Controlled by Embedded Undulating Electrode for Liquid Transport",
-      "Link": "https://doi.org/10.1166/jnn.2016.12126",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Sin-Hyung Lee"
-          ],
-          "CoAuthor": [
-            "In-Ho Lee","Jiyoon Kim","Chang-Min Keum","Eui-Sang Yu"
-          ],
-          "CorresAuthor": [
-            "Sin-Doo Lee"
-          ]
-        }
-      ],
-      "Journal": "Journal of Nanoscience and Nanotechnology",
-      "Detail": "16(6), 6455&ndash;6458 (2016)",
-      "PubDate": "2016-06-01",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Colloidal Assembling Template with Wrinkled Patterns Based on Liquid Crystalline Polymer",
-      "Link": "https://doi.org/10.1080/15421406.2015.1026749",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Se-Um Kim"
-          ],
-          "CoAuthor": [
-            "Jiyoon Kim","Eui-Sang Yu","In-Ho Lee","Bo-Yeon Lee","Youngjoo Sohn"
-          ],
-          "CorresAuthor": [
-            "Sin-Doo Lee"
-          ]
-        }
-      ],
-      "Journal": "Molecular Crystals and Liquid Crystals",
-      "Detail": "610(1), 221&ndash;226 (2015)",
-      "PubDate": "2015-07-06",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Emerging Areas for Liquid Crystal Technologies Beyond Displays",
-      "Link": "https://doi.org/10.1002/j.2168-0159.2014.tb00144.x",
-      "Authors": [
-        {
-          "FirstAuthor": [
-            "Jiyoon Kim"
-          ],
-          "CoAuthor": [
-            "Se-Um Kim","Eui-Sang Yu"
-          ],
-          "CorresAuthor": [
-            "Sin-Doo Lee"
-          ]
-        }
-      ],
-      "Journal": "SID Symposium Digest of Technical Papers",
-      "Detail": "45(1), 551&ndash;554 (2014)",
-      "PubDate": "2014-07-07",
-      "IndexNum": [""]
-    }
-  ]
+  {
+    "Title": "Ionic Contrast Across a Lipid Membrane for Debye Length Extension: Towards an Ultimate Bioelectronics Transducer",
+    "Link": "",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Donggeun Lee"
+        ],
+        "CoAuthor": [
+          "Suho Lee","Eui-Sang Yu","Taikjin Lee","Jae Hun Kim","Hyun Seok Song","Kwan Hyi Lee","Seok Lee","Sang-Kook Han","Myung Chul Choi"
+        ],
+        "CorresAuthor": [
+          "Chulki Kim","Yong-Sang Ryu"
+        ]
+      }
+    ],
+    "Journal": "Nature Communications",
+    "Detail": "Accepted (2021)",
+    "PubDate": "2020-10-10",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Nanoscale Terahertz Monitoring on Multi-phase Dynamic Assembly of Nanoparticles under Aqueous Environment",
+    "Link": "https://doi.org/10.1002/advs.202004826",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Eui-Sang Yu"
+        ],
+        "CoAuthor": [
+          "Sang-Hun Lee","Geon Lee","Q-Han Park","Aram J. Chung"
+        ],
+        "CorresAuthor": [
+          "Minah Seo","Yong-Sang Ryu"
+        ]
+      }
+    ],
+    "Journal": "Advanced Science",
+    "Detail": "8, 2004826 (2021)",
+    "PubDate": "2021-03-24",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Physicochemical Modulation of Nanometer-Thick Etalon Films for Liquid-Sensitive Color Display with Full-Color Spectrum Generation",
+    "Link": "https://doi.org/10.1021/acsanm.0c02746",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Hee-Dong Jeong", "Jongsu Lee"
+        ],
+        "CoAuthor": [
+          "Eui-Sang Yu","Taehyun Kim","In Soo Kim","Sin-Doo Lee"
+        ],
+        "CorresAuthor": [
+          "Yong-Sang Ryu","Seung-Yeol Lee"
+        ]
+      }
+    ],
+    "Journal": "ACS Applied Nano Materials",
+    "Detail": "4(1), 389–395 (2021)",
+    "PubDate": "2020-12-24",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Asymmetric Optical Camouflage: Tuneable Reflective Colour Accompanied by the Optical Janus Effect",
+    "Link": "https://doi.org/10.1038/s41377-020-00413-5",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Taehyun Kim","Eui-Sang Yu","Young-Gyu Bae"
+        ],
+        "CoAuthor": [
+          "Jongsu Lee","In Soo Kim","Seok Chung"
+        ],
+        "CorresAuthor": [
+          "Seung-Yeol Lee","Yong-Sang Ryu"
+        ]
+      }
+    ],
+    "Journal": "Light: Science & Applications",
+    "Detail": "9, 175 (2020)",
+    "PubDate": "2020-10-19",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Elasticity-Driven Membrane Budding through Cholesterol Concentration on Supported Lipid Monolayer-Bilayer Junction",
+    "Link": "https://doi.org/10.1002/admi.202000937",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Yeon Kyung Lee"
+        ],
+        "CoAuthor": [
+          "Eui-Sang Yu"
+        ],
+        "CorresAuthor": [
+          "Dong June Ahn","Yong-Sang Ryu"
+        ]
+      }
+    ],
+    "Journal": "Advanced Materials Interfaces",
+    "Detail": "2000937 (2020)",
+    "PubDate": "2020-09-13",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Observation of Structural Color in Random Au Nano-islands Fabricated on Dielectric Nanopillars",
+    "Link": "https://doi.org/10.1117/12.2573799",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Young-Gyu Bae"
+        ],
+        "CoAuthor": [
+          "Taehyun Kim","Jongsu Lee","Eui-Sang Yu","Yong-Sang Ryu"
+        ],
+        "CorresAuthor": [
+          "Seung-Yeol Lee"
+        ]
+      }
+    ],
+    "Journal": "Proceeding of SPIE",
+    "Detail": "11522, 1152210 (2020)",
+    "PubDate": "2020-06-15",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Precise Capture and Dynamic Relocation of Nanoparticulate Biomolecules through Dielectrophoretic Enhancement by Vertical Nanogap Architectures",
+    "Link": "https://doi.org/10.1038/s41467-020-16630-w",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Eui-Sang Yu"
+        ],
+        "CoAuthor": [
+          "Hyojin Lee","Sun-Mi Lee","Jiwon Kim","Taehyun Kim","Jongsu Lee","Chulki Kim","Minah Seo","Jae Hun Kim","Young Tae Byun","Seung-Chul Park","Seung-Yeol Lee"
+        ],
+        "CorresAuthor": [
+          "Sin-Doo Lee","Yong-Sang Ryu"
+        ]
+      }
+    ],
+    "Journal": "Nature Communications",
+    "Detail": "11, 1&ndash;9 (2020)",
+    "PubDate": "2020-06-04",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Full-Coloration Based on Metallic Nanostructures through Phase Discontinuity in Fabry-Perot Resonators",
+    "Link": "https://doi.org/10.1364/OE.27.033098",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "In-Ho Lee"
+        ],
+        "CoAuthor": [
+          "Eui-Sang Yu","Sin-Hyung Lee"
+        ],
+        "CorresAuthor": [
+          "Sin-Doo Lee"
+        ]
+      }
+    ],
+    "Journal": "Optics Express",
+    "Detail": "27(23), 33098&ndash;33110 (2019)",
+    "PubDate": "2019-10-28",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Highly Sensitive Color Tunability by Scalable Nanomorphology of a Dielectric Layer in Liquid&ndash;Permeable Metal&ndash;Insulator&ndash;Metal Structure",
+    "Link": "http://doi.org/10.1021/acsami.8b12553",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Eui-Sang Yu"
+        ],
+        "CoAuthor": [
+          "Sin-Hyung Lee","Young-Gyu Bae","Jaebin Choi","Donggeun Lee","Chulki Kim","Taikjin Lee","Seung-Yeol Lee"
+        ],
+        "CorresAuthor": [
+          "Sin-Doo Lee","Yong-Sang Ryu"
+        ]
+      }
+    ],
+    "Journal": "ACS Applied Materials & Interfaces",
+    "Detail": "10(44), 38581&ndash;38587 (2018)",
+    "PubDate": "2018-10-08",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Ultrasensitive Terahertz Sensing of Gold Nanoparticles inside Nano Slot Antennas",
+    "Link": "https://doi.org/10.1364/OE.25.030591",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Yong-Sang Ryu"
+        ],
+        "CoAuthor": [
+          "Dong-Kyu Lee","Ji-Hun Kang","Sang-Hun Lee","Eui-Sang Yu"
+        ],
+        "CorresAuthor": [
+          "Minah Seo"
+        ]
+      }
+    ],
+    "Journal": "Optics Express",
+    "Detail": "25(24), 30591&ndash;30597 (2017)",
+    "PubDate": "2017-11-21",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Array of Liquid Crystal Polymer-based Fabry-Perot Resonators for Image Selection by Polarization",
+    "Link": "https://doi.org/10.1117/12.2236167",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "In-Ho Lee"
+        ],
+        "CoAuthor": [
+          "Eui-Sang Yu","Se-Um Kim"
+        ],
+        "CorresAuthor": [
+          "Sin-Doo Lee"
+        ]
+      }
+    ],
+    "Journal": "Proceedings of SPIE",
+    "Detail": "9940, 994003 (2016)",
+    "PubDate": "2016-09-23",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "The Domain Mixing Effect on the Electro-optical Properties of Liquid Crystals Using Polyimide Doped with Reactive Mesogen",
+    "Link": "https://doi.org/10.1080/15980316.2016.1208631",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Eui-Sang Yu"
+        ],
+        "CoAuthor": [
+          "Se-Um Kim","Jeng-Hun Suh","Jiyoon Kim","Jun-Hee Na"
+        ],
+        "CorresAuthor": [
+          "Sin-Doo Lee"
+        ]
+      }
+    ],
+    "Journal": "Journal of Information Display",
+    "Detail": "17(3), 125&ndash;130 (2016)",
+    "PubDate": "2016-07-26",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Electrowetting-on-Dielectric Device Controlled by Embedded Undulating Electrode for Liquid Transport",
+    "Link": "https://doi.org/10.1166/jnn.2016.12126",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Sin-Hyung Lee"
+        ],
+        "CoAuthor": [
+          "In-Ho Lee","Jiyoon Kim","Chang-Min Keum","Eui-Sang Yu"
+        ],
+        "CorresAuthor": [
+          "Sin-Doo Lee"
+        ]
+      }
+    ],
+    "Journal": "Journal of Nanoscience and Nanotechnology",
+    "Detail": "16(6), 6455&ndash;6458 (2016)",
+    "PubDate": "2016-06-01",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Colloidal Assembling Template with Wrinkled Patterns Based on Liquid Crystalline Polymer",
+    "Link": "https://doi.org/10.1080/15421406.2015.1026749",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Se-Um Kim"
+        ],
+        "CoAuthor": [
+          "Jiyoon Kim","Eui-Sang Yu","In-Ho Lee","Bo-Yeon Lee","Youngjoo Sohn"
+        ],
+        "CorresAuthor": [
+          "Sin-Doo Lee"
+        ]
+      }
+    ],
+    "Journal": "Molecular Crystals and Liquid Crystals",
+    "Detail": "610(1), 221&ndash;226 (2015)",
+    "PubDate": "2015-07-06",
+    "IndexNum": [""]
+  },
+  {
+    "Title": "Emerging Areas for Liquid Crystal Technologies Beyond Displays",
+    "Link": "https://doi.org/10.1002/j.2168-0159.2014.tb00144.x",
+    "Authors": [
+      {
+        "FirstAuthor": [
+          "Jiyoon Kim"
+        ],
+        "CoAuthor": [
+          "Se-Um Kim","Eui-Sang Yu"
+        ],
+        "CorresAuthor": [
+          "Sin-Doo Lee"
+        ]
+      }
+    ],
+    "Journal": "SID Symposium Digest of Technical Papers",
+    "Detail": "45(1), 551&ndash;554 (2014)",
+    "PubDate": "2014-07-07",
+    "IndexNum": [""]
+  }
+]
 }
