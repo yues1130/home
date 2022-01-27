@@ -23,68 +23,41 @@
      "PubDate": "2022-01-24",
      "IndexNum": [""]
     },
-  {
-    "Title": "Ionic Contrast Across a Lipid Membrane for Debye Length Extension: Towards an Ultimate Bioelectronics Transducer",
-    "Link": "",
-    "Authors": [
-      {
-        "FirstAuthor": [
-          "Donggeun Lee"
-        ],
-        "CoAuthor": [
-          "Suho Lee","Eui-Sang Yu","Taikjin Lee","Jae Hun Kim","Hyun Seok Song","Kwan Hyi Lee","Seok Lee","Sang-Kook Han","Myung Chul Choi"
-        ],
-        "CorresAuthor": [
-          "Chulki Kim","Yong-Sang Ryu"
-        ]
-      }
-    ],
-    "Journal": "Nature Communications",
-    "Detail": "Accepted (2021)",
-    "PubDate": "2020-10-10",
-    "IndexNum": [""]
+  {"Title": "Ionic Contrast Across a Lipid Membrane for Debye Length Extension: Towards an Ultimate Bioelectronics Transducer",
+   "Link": "https://doi.org/10.1038/s41467-021-24122-8",
+   "Authors": [{
+       "FirstAuthor": ["Donggeun Lee"],
+       "CoAuthor": ["Suho Lee","Eui-Sang Yu","Taikjin Lee","Jae Hun Kim","Hyun Seok Song","Kwan Hyi Lee","Seok Lee","Sang-Kook Han","Myung Chul Choi"],
+       "CorresAuthor": ["Chulki Kim","Yong-Sang Ryu"]
+   }],
+   "Journal": "Nature Communications",
+   "Detail": "Accepted (2021)",
+   "PubDate": "2020-10-10",
+   "IndexNum": [""]
   },
-  {
-    "Title": "Nanoscale Terahertz Monitoring on Multi-phase Dynamic Assembly of Nanoparticles under Aqueous Environment",
-    "Link": "https://doi.org/10.1002/advs.202004826",
-    "Authors": [
-      {
-        "FirstAuthor": [
-          "Eui-Sang Yu"
-        ],
-        "CoAuthor": [
-          "Sang-Hun Lee","Geon Lee","Q-Han Park","Aram J. Chung"
-        ],
-        "CorresAuthor": [
-          "Minah Seo","Yong-Sang Ryu"
-        ]
-      }
-    ],
-    "Journal": "Advanced Science",
-    "Detail": "8, 2004826 (2021)",
-    "PubDate": "2021-03-24",
-    "IndexNum": [""]
+  {"Title": "Nanoscale Terahertz Monitoring on Multi-phase Dynamic Assembly of Nanoparticles under Aqueous Environment",
+   "Link": "https://doi.org/10.1002/advs.202004826",
+   "Authors": [{
+       "FirstAuthor": ["Eui-Sang Yu"],
+        "CoAuthor": ["Sang-Hun Lee","Geon Lee","Q-Han Park","Aram J. Chung"],
+        "CorresAuthor": ["Minah Seo","Yong-Sang Ryu"]
+   }],
+   "Journal": "Advanced Science",
+   "Detail": "8, 2004826 (2021)",
+   "PubDate": "2021-03-24",
+   "IndexNum": [""]
   },
-  {
-    "Title": "Physicochemical Modulation of Nanometer-Thick Etalon Films for Liquid-Sensitive Color Display with Full-Color Spectrum Generation",
-    "Link": "https://doi.org/10.1021/acsanm.0c02746",
-    "Authors": [
-      {
-        "FirstAuthor": [
-          "Hee-Dong Jeong", "Jongsu Lee"
-        ],
-        "CoAuthor": [
-          "Eui-Sang Yu","Taehyun Kim","In Soo Kim","Sin-Doo Lee"
-        ],
-        "CorresAuthor": [
-          "Yong-Sang Ryu","Seung-Yeol Lee"
-        ]
-      }
-    ],
-    "Journal": "ACS Applied Nano Materials",
-    "Detail": "4(1), 389–395 (2021)",
-    "PubDate": "2020-12-24",
-    "IndexNum": [""]
+  {"Title": "Physicochemical Modulation of Nanometer-Thick Etalon Films for Liquid-Sensitive Color Display with Full-Color Spectrum Generation",
+   "Link": "https://doi.org/10.1021/acsanm.0c02746",
+   "Authors": [{
+       "FirstAuthor": ["Hee-Dong Jeong", "Jongsu Lee"],
+       "CoAuthor": ["Eui-Sang Yu","Taehyun Kim","In Soo Kim","Sin-Doo Lee"],
+       "CorresAuthor": ["Yong-Sang Ryu","Seung-Yeol Lee"]
+   }],
+   "Journal": "ACS Applied Nano Materials",
+   "Detail": "4(1), 389–395 (2021)",
+   "PubDate": "2020-12-24",
+   "IndexNum": [""]
   },
   {
     "Title": "Asymmetric Optical Camouflage: Tuneable Reflective Colour Accompanied by the Optical Janus Effect",
