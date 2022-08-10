@@ -1,16 +1,16 @@
 {
   "Patents": [
     {
-      "Title": "Particle Collecting Device and Particle Sensing Method",
-      "Link": "",
+      "Title": "입자 포집 장치 및 입자 센싱 방법 (Particle Collecting Device and Particle Sensing Method)",
+      "Link": "https://doi.org/10.8080/1020200096819",
       "Authors": [
         "Yong-Sang Ryu","Deok Ha Woo","Eui-Sang Yu","Jongsu Lee","Yusin Pak","Minah Seo","Chulki Kim","Hyun Seok Song","Taikjin Lee","Myung-Suk Chun","Young Min Jhon","Young Tae Byun","Seok Lee","Jae Hun Kim"
       ],
       "Country": "KR",
-      "PatentNo": "Application No. 10-2020-0096819",
+      "PatentNo": "Patent No. 10-23628560000",
       "Filed": "Aug. 3, 2020",
-      "Issued": "",
-      "AGDate": "2020-08-03",
+      "Issued": "Feb. 9, 2022",
+      "AGDate": "2022-02-09",
       "IndexNum": [""]
     },
     {
@@ -27,16 +27,29 @@
       "IndexNum": [""]
     },
     {
-      "Title": "Filter for Trapping Microparticulates in Air Pollutant Comprising Vertical Nano-gap Electrode with Multiple Holes and Device and Method for Reducing Microparticulates from the Air Using the Same",
-      "Link": "",
+      "Title": "복수의 홀을 구비한 수직 나노 갭 전극을 구비한 미세먼지 포집용 필터 및 이를 구비한 공기 조화 장치 (Filter for Trapping Microparticulates in Air Pollutant Comprising Vertical Nano-gap Electrode with Multiple Holes and Device and Method for Reducing Microparticulates from the Air Using the Same)",
+      "Link": "https://doi.org/10.8080/1020200096663",
       "Authors": [
         "Yong-Sang Ryu", "Sang Moon Kim", "Eui-Sang Yu", "Taehyun Kim", "Jongsu Lee"
       ],
       "Country": "KR",
-      "PatentNo": "Application No. 10-2019-0117022",
+      "PatentNo": "Patent No. 10-23470630000",
       "Filed": "Sep. 23, 2019",
-      "Issued": "",
-      "AGDate": "2019-09-23",
+      "Issued": "Dec. 30, 2021",
+      "AGDate": "2021-12-30",
+      "IndexNum": [""]
+    },
+    {
+      "Title": "고효율 및 고민감도 입자 포집형 테라헤르츠 센싱 시스템 (High efficiency and high sensitivity particle capture type terahertz sensing system)",
+      "Link": "https://doi.org/10.8080/1020200071241",
+      "Authors": [
+        "Yong-Sang Ryu", "Eui-Sang Yu", "Taehyun Kim", "Taikjin Lee", "Jae Hun Kim", "Hyun Seok Song", "Cherlhyun Jeong", "Minah Seo", "Chulki Kim"
+      ],
+      "Country": "KR",
+      "PatentNo": "Patent No. 10-22545870000",
+      "Filed": "Sep. 16, 2019",
+      "Issued": "May 14, 2021",
+      "AGDate": "2021-05-14",
       "IndexNum": [""]
     },
     {
@@ -53,16 +66,16 @@
       "IndexNum": [""]
     },
     {
-      "Title": "Nano Optical Sensor Capable of Wetting of Polar Solvent and Method for Analyzing Polar Solvent Using the Same",
-      "Link": "",
+      "Title": "극성 용매의 웨팅이 가능한 나노 광학 센서 및 이를 활용한 극성 용매 분석 방법 (Nano Optical Sensor Capable of Wetting of Polar Solvent and Method for Analyzing Polar Solvent Using the Same)",
+      "Link": "https://doi.org/10.8080/1020190086228",
       "Authors": [
         "Yong-Sang Ryu", "Eui-Sang Yu", "Cherlhyun Jeong", "Hyun Seok Song"
       ],
       "Country": "KR",
-      "PatentNo": "Application No. 10-2019-0086228",
+      "PatentNo": "Patent No. 10-22336270000",
       "Filed": "Jul. 17, 2019",
-      "Issued": "",
-      "AGDate": "2019-07-17",
+      "Issued": "Mar. 24, 2021",
+      "AGDate": "2021-03-24",
       "IndexNum": [""]
     },
     {
@@ -79,7 +92,7 @@
       "IndexNum": [""]
     },
     {
-      "Title": "Two Side Display Device Using Nano-plasmonics and Manufacturing Method Thereof",
+      "Title": "나노 플라즈모닉스를 이용한 양면 표시 장치 및 이의 제조 방법 (Two Side Display Device Using Nano-plasmonics and Manufacturing Method Thereof)",
       "Link": "https://doi.org/10.8080/1020190034926",
       "Authors": [
         "Yong-Sang Ryu", "Eui-Sang Yu", "Taehyun Kim", "Taikjin Lee", "Jae Hun Kim", "Hyun Seok Song", "Cherlhyun Jeong", "Minah Seo", "Chulki Kim"
@@ -92,7 +105,7 @@
       "IndexNum": [""]
     },
     {
-      "Title": "Ultra High-throughput Screening of Efficient Biofuel-producing Microorganisms by Dielectrophoresis Using Vertical Nano-gap Electrodes",
+      "Title": "수직 나노갭 전극을 이용한 유전영동 방법에 의한 고효율 바이오연료 생산 균주의 선별방법 (Ultra High-throughput Screening of Efficient Biofuel-producing Microorganisms by Dielectrophoresis Using Vertical Nano-gap Electrodes)",
       "Link": "https://doi.org/10.8080/1020180163570",
       "Authors": [
         "Sun-Mi Lee", "Yong-Sang Ryu", "Eui-Sang Yu", "Jiwon Kim", "Ja Kyong Ko", "Gyeongtaek Gong", "Chulki Kim", "Jae Hun Kim"
@@ -105,7 +118,7 @@
       "IndexNum": [""]
     },
     {
-      "Title": "Vertical Nano-gap Electrodes for Dielectrophoresis, Method for Preparation Thereof, Method for Trapping and Separating Particles Using the Same",
+      "Title": "수직 나노갭 유전영동 전극, 이의 제조방법 및 이를 이용한 입자 포집 및 분리 방법 (Vertical Nano-gap Electrodes for Dielectrophoresis, Method for Preparation Thereof, Method for Trapping and Separating Particles Using the Same)",
       "Link": "https://doi.org/10.8080/1020180033608",
       "Authors": [
         "Yong-Sang Ryu", "Eui-Sang Yu", "Chulki Kim", "Taikjin Lee", "Minah Seo", "Jae Hun Kim", "Young Min Jhon", "Sun-Mi Lee"
@@ -131,7 +144,7 @@
       "IndexNum": [""]
     },
     {
-      "Title": "Optical Sensor, Manufacturing Method Thereof, and Fluid Analysis Method Using the Same",
+      "Title": "광학 센서, 이의 제조 방법 및 이를 활용한 유체 분석 방법 (Optical Sensor, Manufacturing Method Thereof, and Fluid Analysis Method Using the Same)",
       "Link": "https://doi.org/10.8080/1020170132694",
       "Authors": [
         "Yong-Sang Ryu", "Chulki Kim", "Young Min Jhon", "Sin-Doo Lee", "Eui-Sang Yu", "Jae Hun Kim"
