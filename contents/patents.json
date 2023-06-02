@@ -1,6 +1,58 @@
 {
   "Patents": [
     {
+      "Title": "High Efficiency and High Sensitivity Particle Capture Type Terahertz Sensing System",
+      "Link": "https://patents.justia.com/patent/20210389228",
+      "Authors": [
+        "Minah Seo", "Yong-Sang Ryu", "Eui-Sang Yu", "Taikjin Lee", "Hyun Seok SONG"
+      ],
+      "Country": "US",
+      "PatentNo": "Application No. 17/138,919",
+      "Filed": "Dec. 31, 2020",
+      "Issued": "",
+      "AGDate": "2020-12-31",
+      "IndexNum": [""]
+    },
+    {
+      "Title": "Filter for Trapping Particulate Matter Including Vertical Nano-gap Electrode with Plurality of Holes and Air Conditioning Apparatus Having the Same",
+      "Link": "https://patents.justia.com/patent/20210086194",
+      "Authors": [
+        "Yong-Sang Ryu", "Eui-Sang Yu", "Taehyun Kim", "Sang Moon Kim", "Jongsu Lee"
+      ],
+      "Country": "US",
+      "PatentNo": "Application No. 17/023,685",
+      "Filed": "Sep. 17, 2020",
+      "Issued": "",
+      "AGDate": "2020-09-17",
+      "IndexNum": [""]
+    },
+    {
+      "Title": "독립형 부유 전극 구조의 입자 포집 장치 및 이를 이용한 입자 포집 방법 (Particle Collecting Device with Independent Floating Electrode and Particle Collecting Method Using Thereof)",
+      "Link": "https://doi.org/10.8080/1020200096818",
+      "Authors": [
+        "Yong-Sang Ryu", "Eui-Sang Yu", "Jongsu Lee", "Ji Min Baek", "Yusin Pak", "Minah Seo", "Hyun Seok Song", "Young Tae Byun", "Myung-Suk Chun", "Taikjin Lee", "Young Min Jhon", "Deok Ha Woo", "Seok Lee", "Chulki Kim", "Jae Hun Kim"
+      ],
+      "Country": "KR",
+      "PatentNo": "Patent No. 10-24435610000",
+      "Filed": "Aug. 3, 2020",
+      "Issued": "Sep. 8, 2022",
+      "AGDate": "2022-02-09",
+      "IndexNum": [""]
+    },
+    {
+      "Title": "Screening Method for High-efficiency Biofuel-producing Strains by Dielectrophoretic Method Using Vertical Nano-gap Electrodes",
+      "Link": "https://patents.justia.com/patent/11285492",
+      "Authors": [
+        "Sun-Mi Lee", "Yong-Sang Ryu", "Eui-Sang Yu", "Jiwon Kim", "Ja Kyong Ko", "Gyeongtaek Gong", "Chulki Kim", "Jae Hun Kim"
+      ],
+      "Country": "US",
+      "PatentNo": "Patent No. 11285492",
+      "Filed": "Apr. 25, 2019",
+      "Issued": "Mar. 29, 2022",
+      "AGDate": "2022-03-29",
+      "IndexNum": [""]
+    },
+    {
       "Title": "입자 포집 장치 및 입자 센싱 방법 (Particle Collecting Device and Particle Sensing Method)",
       "Link": "https://doi.org/10.8080/1020200096819",
       "Authors": [
@@ -14,16 +66,16 @@
       "IndexNum": [""]
     },
     {
-      "Title": "Particle Collecting Device with Independent Floating Electrode and Particle Collecting Method Using Thereof",
-      "Link": "",
+      "Title": "Two Side Display Device Using Nano-plasmonics and Manufacturing Method Thereof",
+      "Link": "https://patentscope.wipo.int/search/en/detail.jsf?docId=CN309681328&_cid=P21-LIE3G5-82569-1",
       "Authors": [
-        "Yong-Sang Ryu", "Eui-Sang Yu", "Jongsu Lee", "Ji Min Baek", "Yusin Pak", "Minah Seo", "Hyun Seok Song", "Young Tae Byun", "Myung-Suk Chun", "Taikjin Lee", "Young Min Jhon", "Deok Ha Woo", "Seok Lee", "Chulki Kim", "Jae Hun Kim"
+        "Yong-Sang Ryu", "Eui-Sang Yu", "Taehyun Kim", "Taikjin Lee", "Jae Hun Kim", "Hyun Seok Song", "Cherlhyun Jeong", "Minah Seo", "Chulki Kim"
       ],
-      "Country": "KR",
-      "PatentNo": "Application No. 10-2020-0096818",
-      "Filed": "Aug. 3, 2020",
-      "Issued": "",
-      "AGDate": "2020-08-03",
+      "Country": "CN",
+      "PatentNo": "Patent No. 111754857",
+      "Filed": "Sep. 16, 2019",
+      "Issued": "Feb. 01, 2022",
+      "AGDate": "2022-02-01",
       "IndexNum": [""]
     },
     {
@@ -53,19 +105,6 @@
       "IndexNum": [""]
     },
     {
-      "Title": "Two Side Display Device Using Nano-plasmonics and Manufacturing Method Thereof",
-      "Link": "",
-      "Authors": [
-        "Yong-Sang Ryu", "Eui-Sang Yu", "Taehyun Kim", "Taikjin Lee", "Jae Hun Kim", "Hyun Seok Song", "Cherlhyun Jeong", "Minah Seo", "Chulki Kim"
-      ],
-      "Country": "CN",
-      "PatentNo": "Application No. 2019-108732509",
-      "Filed": "Sep. 16, 2019",
-      "Issued": "",
-      "AGDate": "2019-09-16",
-      "IndexNum": [""]
-    },
-    {
       "Title": "극성 용매의 웨팅이 가능한 나노 광학 센서 및 이를 활용한 극성 용매 분석 방법 (Nano Optical Sensor Capable of Wetting of Polar Solvent and Method for Analyzing Polar Solvent Using the Same)",
       "Link": "https://doi.org/10.8080/1020190086228",
       "Authors": [
@@ -76,19 +115,6 @@
       "Filed": "Jul. 17, 2019",
       "Issued": "Mar. 24, 2021",
       "AGDate": "2021-03-24",
-      "IndexNum": [""]
-    },
-    {
-      "Title": "Screening Method for High-efficiency Biofuel-producing Strains by Dielectrophoretic Method Using Vertical Nano-gap Electrodes",
-      "Link": "http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&f=G&l=50&d=PG01&S1=16393967&OS=16393967&RS=16393967",
-      "Authors": [
-        "Sun-Mi Lee", "Yong-Sang Ryu", "Eui-Sang Yu", "Jiwon Kim", "Ja Kyong Ko", "Gyeongtaek Gong", "Chulki Kim", "Jae Hun Kim"
-      ],
-      "Country": "US",
-      "PatentNo": "Application No. 16393967",
-      "Filed": "Apr. 25, 2019",
-      "Issued": "",
-      "AGDate": "2019-04-25",
       "IndexNum": [""]
     },
     {
@@ -132,7 +158,7 @@
     },
     {
       "Title": "Optical Sensor, Manufacturing Method Thereof, and Fluid Analysis Method Using the Same",
-      "Link": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10488333.PN.&OS=PN/10488333&RS=PN/10488333",
+      "Link": "https://patents.justia.com/patent/10488333",
       "Authors": [
         "Yong-Sang Ryu", "Chulki Kim", "Young Min Jhon", "Sin-Doo Lee", "Eui-Sang Yu", "Jae Hun Kim"
       ],
