@@ -1,4 +1,16 @@
 {"Articles": [
+    {"Title": "Fabry–Perot Cavity Control for Tunable Raman Scattering",
+     "Link": "https://doi.org/10.1002/smll.202207003",
+     "Authors": [{
+          "FirstAuthor": ["Taehyun Kim", "Jongsu Lee"],
+          "CoAuthor": ["Eui-Sang Yu", "Seungha Lee", "Hyeonbin Woo", "Jeonghun Kwak", "Seok Chung"],
+          "CorresAuthor": ["Inhee Choi","Yong-Sang Ryu"]
+     }],
+     "Journal": "Small",
+     "Detail": "2207003 (2023)",
+     "PubDate": "2023-04-05",
+     "IndexNum": [""]
+    },
     {"Title": "Real-time Underwater Nanoplastic Detection Beyond Diffusion Limit and Low Raman Scattering Cross-section via Electro-photonic Tweezers",
      "Link": "https://doi.org/10.1021/acsnano.2c07933",
      "Authors": [{
