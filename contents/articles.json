@@ -1,4 +1,28 @@
 {"Articles": [
+    {"Title": "Advances in Terahertz Biosensors toward Photon-molecule Interplay",
+     "Link": "https://authors.elsevier.com/tracking/article/details.do?aid=117715&jid=TRAC&surname=Yu",
+     "Authors": [{
+          "FirstAuthor": ["Yeeun Roh","Taeyeon Kim"],
+          "CoAuthor": ["Geon Lee"],
+          "CorresAuthor": ["Minah Seo","Eui-Sang Yu"]
+     }],
+     "Journal": "Trends in Analytical Chemistry",
+     "Detail": "Accepted (2024)",
+     "PubDate": "2024-04-16",
+     "IndexNum": [""]
+    },
+    {"Title": "Naked-eye observation of water-forming reaction on palladium etalon: transduction of gas-matter reaction into light-matter interaction",
+     "Link": "https://doi.org/10.1186/s43074-023-00097-1",
+     "Authors": [{
+          "FirstAuthor": ["Jongsu Lee"],
+          "CoAuthor": ["Eui-Sang Yu", "Taehyun Kim", "In Soo Kim", "Seok Chung", "Seung Jae Kwak", "Won Bo Lee"],
+          "CorresAuthor": ["Yusin Pak","Yong-Sang Ryu"]
+     }],
+     "Journal": "PhotoniX",
+     "Detail": "4, 20 (2023)",
+     "PubDate": "2023-05-30",
+     "IndexNum": [""]
+    },
     {"Title": "Fabry–Perot Cavity Control for Tunable Raman Scattering",
      "Link": "https://doi.org/10.1002/smll.202207003",
      "Authors": [{
