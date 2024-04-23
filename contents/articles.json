@@ -1,4 +1,16 @@
 {"Articles": [
+    {"Title": "Challenges and Recent Analytical Advances in Micro/Nanoplastic Detection",
+     "Link": "",
+     "Authors": [{
+          "FirstAuthor": ["Seungyeop Choi","Seungha Lee"],
+          "CoAuthor": [],
+          "CorresAuthor": ["Myung-Ki Kim","Eui-Sang Yu","Yong-Sang Ryu"]
+     }],
+     "Journal": "Analytical Chemistry",
+     "Detail": "Accepted (2024)",
+     "PubDate": "2024-04-24",
+     "IndexNum": [""]
+    },
     {"Title": "Advances in Terahertz Biosensors toward Photon-molecule Interplay",
      "Link": "https://doi.org/10.1016/j.trac.2024.117715",
      "Authors": [{
